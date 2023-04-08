@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm MGshawn</h1>
-<h3 align="center">A passionate student from CQU</h3>
+<h2>A passionate student from CQU</h2>
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=MagicShawn&show_icons=true&theme=radical&hide=contribs,prs" />
 </div>
-- 📫 How to reach me **1056472710@qq.com**
-
-- ⚡ Fun fact **funny guy**
+<h3>📫 How to reach me: 1056472710@qq.com </h3>
+<h3>⚡ Fun fact funny guy</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
